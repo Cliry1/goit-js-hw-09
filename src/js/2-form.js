@@ -26,4 +26,3 @@ form.addEventListener("submit", event=> {
   localStorage.removeItem(storage);
   form.reset();
 })
-console.log()
